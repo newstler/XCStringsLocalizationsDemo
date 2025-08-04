@@ -2,13 +2,75 @@
   "sourceLanguage" : "en",
   "strings" : {
     "Add Item" : {
-
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "device" : {
+              "applewatch" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Add"
+                }
+              },
+              "iphone" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Add"
+                }
+              },
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Add"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "Add Item"
+                }
+              }
+            }
+          }
+        }
+      }
     },
     "Item at %@" : {
 
     },
     "Select an item" : {
-
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "device" : {
+              "applewatch" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Select"
+                }
+              },
+              "iphone" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Select"
+                }
+              },
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Select"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "Select an item"
+                }
+              }
+            }
+          }
+        }
+      }
     }
   },
   "version" : "1.1"
