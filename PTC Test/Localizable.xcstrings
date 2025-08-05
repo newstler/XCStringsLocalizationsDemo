@@ -1,33 +1,123 @@
 {
-  "sourceLanguage" : "en",
-  "strings" : {
-    "Add Item" : {
-      "localizations" : {
-        "en" : {
-          "variations" : {
-            "device" : {
-              "applewatch" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "Add"
+  "sourceLanguage": "en",
+  "strings": {
+    "Add Item": {
+      "localizations": {
+        "en": {
+          "variations": {
+            "device": {
+              "applewatch": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Add"
                 }
               },
-              "iphone" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "Add"
+              "iphone": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Add"
                 }
               },
-              "ipod" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "Add"
+              "ipod": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Add"
                 }
               },
-              "other" : {
-                "stringUnit" : {
-                  "state" : "new",
-                  "value" : "Add Item"
+              "other": {
+                "stringUnit": {
+                  "state": "new",
+                  "value": "Add Item"
+                }
+              }
+            }
+          }
+        },
+        "de": {
+          "variations": {
+            "device": {
+              "applewatch": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Hinzufügen"
+                }
+              },
+              "iphone": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Hinzufügen"
+                }
+              },
+              "ipod": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Hinzufügen"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Element hinzufügen"
+                }
+              }
+            }
+          }
+        },
+        "ar": {
+          "variations": {
+            "device": {
+              "applewatch": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "إضافة"
+                }
+              },
+              "iphone": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "إضافة"
+                }
+              },
+              "ipod": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "إضافة"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "إضافة عنصر"
+                }
+              }
+            }
+          }
+        },
+        "ru": {
+          "variations": {
+            "device": {
+              "applewatch": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "ДОБАВИТЬ"
+                }
+              },
+              "iphone": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "ДОБАВИТЬ"
+                }
+              },
+              "ipod": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "ДОБАВИТЬ"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "ДОБАВИТЬ ЭЛЕМЕНТ"
                 }
               }
             }
@@ -35,36 +125,145 @@
         }
       }
     },
-    "Item at %@" : {
-
+    "Item at %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Element bei %@"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "العنصر في %@"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ЭЛЕМЕНТ В %@"
+          }
+        }
+      }
     },
-    "Select an item" : {
-      "localizations" : {
-        "en" : {
-          "variations" : {
-            "device" : {
-              "applewatch" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "Select"
+    "Select an item": {
+      "localizations": {
+        "en": {
+          "variations": {
+            "device": {
+              "applewatch": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Select"
                 }
               },
-              "iphone" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "Select"
+              "iphone": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Select"
                 }
               },
-              "ipod" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "Select"
+              "ipod": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Select"
                 }
               },
-              "other" : {
-                "stringUnit" : {
-                  "state" : "new",
-                  "value" : "Select an item"
+              "other": {
+                "stringUnit": {
+                  "state": "new",
+                  "value": "Select an item"
+                }
+              }
+            }
+          }
+        },
+        "de": {
+          "variations": {
+            "device": {
+              "applewatch": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Auswählen"
+                }
+              },
+              "iphone": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Auswählen"
+                }
+              },
+              "ipod": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Auswählen"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Ein Element auswählen"
+                }
+              }
+            }
+          }
+        },
+        "ar": {
+          "variations": {
+            "device": {
+              "applewatch": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "اختيار"
+                }
+              },
+              "iphone": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "اختيار"
+                }
+              },
+              "ipod": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "اختيار"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "اختيار عنصر"
+                }
+              }
+            }
+          }
+        },
+        "ru": {
+          "variations": {
+            "device": {
+              "applewatch": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "ВЫБРАТЬ"
+                }
+              },
+              "iphone": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "ВЫБРАТЬ"
+                }
+              },
+              "ipod": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "ВЫБРАТЬ"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "ВЫБРАТЬ ЭЛЕМЕНТ"
                 }
               }
             }
@@ -73,5 +272,5 @@
       }
     }
   },
-  "version" : "1.1"
+  "version": "1.1"
 }
